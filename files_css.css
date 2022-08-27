@@ -91,3 +91,42 @@
     
 }
 
+.footer_container {
+    flex-direction: row;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    justify-content: space-between;
+    height: 80px;
+    width: 100%;
+}
+
+.fc1{
+    flex-direction: row;
+    display: flex;
+    
+}
+
+.fc2{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.fi1{
+    height: 100px;
+    width: 70px;
+    
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+    
+}
+
+.fi2{
+    height: 100px;
+    width: 300px;
+    align-items: center;
+    
+}
