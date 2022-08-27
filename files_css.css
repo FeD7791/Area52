@@ -1,0 +1,89 @@
+.body_container{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+.header_container0 {
+    flex-direction: row;
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.header_container1 {
+    flex-direction: row;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+}
+
+.header_container2 {
+    flex-direction: column;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.main_container {
+    flex-direction: row;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(Silkscreen-Bold.ttf);
+    
+ }
+
+ @font-face {
+   
+    font-family: second_font;
+    src: url(DynaPuff-Bold.ttf);
+    
+ }
+
+
+
+.hi1{
+    height: 100px;
+    width: 500px;
+    font-family: myFirstFont ;
+}
+
+.hi2{
+    height: 100px;
+    width: 180px;
+    font-family : second_font ;
+}   
+
+.hi3{
+    height: 100px;
+    width: 180px;
+    font-family : second_font ;
+}
+
+.hi4{
+    height: 100px;
+    width: 180px;
+    font-family : second_font ;
+}
+
+.hi5{
+    height: 100px;
+    width: 180px;
+    font-family : second_font ;
+}
+
+.hi6{
+    height: 100px;
+    width: 180px;
+    font-family : second_font ;
+}
+
