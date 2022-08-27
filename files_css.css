@@ -49,6 +49,9 @@
     
  }
 
+.fonts{
+    font-family: second_font;
+}
 
 
 .hi1{
@@ -60,30 +63,31 @@
 .hi2{
     height: 100px;
     width: 180px;
-    font-family : second_font ;
+    
 }   
 
 .hi3{
     height: 100px;
     width: 180px;
-    font-family : second_font ;
+    
 }
 
 .hi4{
     height: 100px;
     width: 180px;
-    font-family : second_font ;
+    
 }
 
 .hi5{
     height: 100px;
     width: 180px;
-    font-family : second_font ;
+    font-family: second_font;
+    
 }
 
 .hi6{
     height: 100px;
-    width: 180px;
-    font-family : second_font ;
+    width: 250px;
+    
 }
 
